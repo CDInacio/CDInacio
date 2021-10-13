@@ -46,7 +46,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CDInacio&show_icons=true&hide_border=true" />
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=CDInacio&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CDInacio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </details>
 
