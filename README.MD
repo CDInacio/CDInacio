@@ -1,5 +1,5 @@
 ### Hi there, I'm Cláudio Dantas 👋
-
+---
 
 ## I'm a Web Developer and Student at UFOP, wich stands for Universidade Federal de Ouro Preto (Federal University of Ouro Preto)!!
 
