@@ -3,8 +3,7 @@
 
 ## I'm a Web Developer and Student at UFOP, wich stands for Universidade Federal de Ouro Preto (Federal University of Ouro Preto)!!
 
-- 🌱 I’m currently learning ReactJs and Flutter
-- 🥅 2021 Goals: Master ReactJs and Flutter
+- 🌱 I’m currently learning Nextjs
 - ⚡ Fun fact: I love reading manga and playing League of Legends
 
 <br />
@@ -21,7 +20,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 
 <br />
