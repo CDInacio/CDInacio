@@ -2,14 +2,14 @@
   <h1>Hi there, I´m Cláudio Dantas</h1>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRhMjk1N2NhMDcxN2E0NTI4Mjg2NTRiOWUwYzBmMTFlNTA0Njc5YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/CuuSHzuc0O166MRfjt/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="">
+    <a href="https://www.linkedin.com/in/cl%C3%A1udio-dantas-520a1615b/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://claudiodantas.vercel.app/">
+    <img src="https://img.shields.io/badge/website-teal?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-  <a href="" >
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.instagram.com/claudiovdsi/?next=%2F">
+    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
    </a>
     
 
