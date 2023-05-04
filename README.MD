@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi there, I´m Cláudio Dantas</h1>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRhMjk1N2NhMDcxN2E0NTI4Mjg2NTRiOWUwYzBmMTFlNTA0Njc5YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/CuuSHzuc0O166MRfjt/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRhMjk1N2NhMDcxN2E0NTI4Mjg2NTRiOWUwYzBmMTFlNTA0Njc5YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/CuuSHzuc0O166MRfjt/giphy.gif" width="200"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/cl%C3%A1udio-dantas-520a1615b/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
