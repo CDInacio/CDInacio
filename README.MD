@@ -47,12 +47,4 @@ Você pode conhecer meu trabalho no meu [portfólio](https://claudiodantas.verce
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://claudiodantas.vercel.app/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/claudiovdsi/)
 
----
 
-### 📊 Estatísticas
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CDInacio&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
----
-
-**Vamos construir algo juntos!** 🚀
