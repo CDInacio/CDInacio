@@ -1,56 +1,58 @@
-<div id="header" align="center">
-  <h1>Hi there, I'm Cláudio Dantas 👋</h1>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRhMjk1N2NhMDcxN2E0NTI4Mjg2NTRiOWUwYzBmMTFlNTA0Njc5YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/CuuSHzuc0O166MRfjt/giphy.gif" width="200"/>
+# Olá! 👋
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/cl%C3%A1udio-dantas-520a1615b/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://claudiodantas.vercel.app/">
-      <img src="https://img.shields.io/badge/website-teal?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
-    </a>
-    <a href="https://www.instagram.com/claudiovdsi/?next=%2F">
-      <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
-  </div>
-</div>
+Eu sou **Cláudio Dantas**, desenvolvedor frontend no Brasil.
+
+Construo interfaces modernas e funcionais com foco em experiência do usuário.
+
+Apaixonado por transformar ideias em produtos digitais que fazem diferença.
+
+Trabalho principalmente com React, Next.js, TypeScript e Tailwind CSS. Utilizo ferramentas como Figma para design e VS Code para desenvolvimento.
+
+Tenho diversos projetos públicos no GitHub e estou sempre explorando novas tecnologias.
+
+Você pode conhecer meu trabalho no meu [portfólio](https://claudiodantas.vercel.app/).
 
 ---
 
-### 👨‍💻 About Me
+### Sobre Mim:
 
-- 🎓 **Graduado em Sistemas de Informação pela Universidade Federal de Ouro Preto – UFOP**
-- 🎓 **Atualmente cursando Pós-Graduação em Desenvolvimento Web**
-- 🚀 Desenvolvedor Frontend focado em React, Next.js e criação de interfaces modernas
-- 💡 Apaixonado por tecnologia, design de interfaces, microsserviços e automações
-- 🎮 No tempo livre, leio mangás, estudo arquitetura de software e jogo online
-
----
-
-### 🛠️ Languages and Tools
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-</div>
+- 🎓 Graduado em Sistemas de Informação pela UFOP
+- 📚 Pós-Graduando em Desenvolvimento Web
+- 💻 Focado em desenvolvimento frontend e arquitetura de software
+- 📖 Leitor de mangás nas horas vagas
+- 🎮 Gamer online
+- 🏋️ Praticante de musculação
+- ⚡ Interessado em microsserviços e automações
 
 ---
 
-### 🔥 GitHub Stats
+### 🛠️ Tecnologias
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDInacio&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 🚀 Let's Build Something Together!
+### 📫 Contato
 
-Sinta-se à vontade para explorar meus repositórios, entrar em contato ou trocar ideias sobre projetos, tecnologia e desenvolvimento web 😄
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cl%C3%A1udio-dantas-520a1615b/)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://claudiodantas.vercel.app/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/claudiovdsi/)
+
+---
+
+### 📊 Estatísticas
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CDInacio&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+
+---
+
+**Vamos construir algo juntos!** 🚀
