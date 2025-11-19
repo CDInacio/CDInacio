@@ -18,9 +18,8 @@ Você pode conhecer meu trabalho no meu [portfólio](https://claudiodantas.verce
 
 - 🎓 Graduado em Sistemas de Informação pela UFOP
 - 📚 Pós-Graduando em Desenvolvimento Web
-- 💻 Focado em desenvolvimento frontend e arquitetura de software
+- 💻 Focado em desenvolvimento frontend
 - 📖 Leitor de mangás nas horas vagas
-- 🎮 Gamer online
 - 🏋️ Praticante de musculação
 - ⚡ Interessado em microsserviços e automações
 
